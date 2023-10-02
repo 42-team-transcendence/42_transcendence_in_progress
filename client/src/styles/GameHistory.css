@@ -1,0 +1,19 @@
+
+.typo-game {
+	font-family: Alfa Slab One;
+	font-size: 70px;
+	-webkit-text-stroke: 1px black;
+	color: #FF8100;
+	text-shadow: -4px -0px 0 rgba(0, 0, 0, .20),  
+				0px -0px 0 rgba(0, 0, 0, .20),
+				-4px 0px 0 rgba(0, 0, 0, .20),
+				0px 0px 0 rgba(0, 0, 0, .20);
+	padding: 5vh;
+}
+
+
+.leader-flex {
+	display: flex;
+	flex-direction: column;
+
+}

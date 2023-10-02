@@ -1,0 +1,9 @@
+.miniature-infos {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.miniature-name {
+	font-weight: bold;
+}

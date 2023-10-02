@@ -1,0 +1,19 @@
+.chat-miniature {
+	display: flex;
+	align-items: center;
+	width: 25vw;
+	gap: 50px;
+	/* background-color: white; */
+	padding: 10px;
+}
+
+.chan-miniature {
+	display: flex;
+	flex-direction: column;
+}
+
+.chan-title {
+	font-weight: 550;
+	font-family: 'Lato';
+	color:#9c27b0;
+}
